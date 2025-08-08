@@ -1,14 +1,9 @@
 # Weather Forecasting App
 
-![Weather Forecasting](./src/assets/logo.png)
-
 ## Overview
 
 Welcome to the Weather Forecasting App, a responsive and stylish web application that provides real-time weather updates and a 6-day forecast for over 200,000 cities around the world. The app fetches weather data from the OpenWeatherMap API and presents it in a user-friendly interface.
 
-### Live Demo
-
-Check out the live version of the app: [Weather Forecasting App](https://sunnyfrost.netlify.app/)
 
 ## Features
 
@@ -33,7 +28,7 @@ To run the app locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/goswamiAnushka/weather_forecasting.git
+   git clone https://github.com/fubbot/Weather-App.git
 
 ## Getting Started
 
